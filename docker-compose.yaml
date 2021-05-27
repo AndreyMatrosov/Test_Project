@@ -47,5 +47,5 @@ services:
 #  ssh_key:
 
 networks:
-  network:ddocker-compooooooooooooooooooooooooose
+  network:
     driver: bridge
